@@ -1,0 +1,36 @@
+{
+  "name": ,
+  "version": ,
+  "main": "index.js",
+  "license": "MIT"
+}
+
+{
+  "name": "create-node-js-app",
+  "version": "0.0.1",
+  "description": "Create node.js app in a glimps of a second.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soixantecircuits/create-node-js-app.git"
+  },
+  "keywords": [
+    "create",
+    "yarn",
+    "boilerplate",
+    "template"
+  ],
+  "author": "Soixante circuits",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soixantecircuits/create-node-js-app/issues"
+  },
+  "homepage": "https://github.com/soixantecircuits/create-node-js-app#readme",
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=v6.0.0"
+  },
+  "devDependencies": {
+  }
+}
