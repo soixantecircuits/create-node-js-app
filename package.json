@@ -1,11 +1,4 @@
 {
-  "name": ,
-  "version": ,
-  "main": "index.js",
-  "license": "MIT"
-}
-
-{
   "name": "create-node-js-app",
   "version": "0.0.1",
   "description": "Create node.js app in a glimps of a second.",
